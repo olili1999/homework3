@@ -95,7 +95,6 @@ tr:nth-child(even) {
 
 tr:hover {
   background-color: rgb(126, 8, 48);
-  opacity: 0.25;
 }
 
 thead tr:first-child th:first-child {
@@ -122,4 +121,5 @@ footer {
   min-height: 75px;
   position: fixed;
   bottom: 0;
+  left: 0;
 }
