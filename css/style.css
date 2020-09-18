@@ -86,11 +86,11 @@ tr {
 }
 
 tr:nth-child(odd) {
-  background-color: #d1d1d1;
+  background-color: transparent;
 }
 
 tr:nth-child(even) {
-  background-color: transparent;
+  background-color: #d1d1d1;
 }
 
 tr:hover {
