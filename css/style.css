@@ -110,7 +110,7 @@ tbody tr:last-child th:first-child {
   border-radius: 0 0 0 10px;
 }
 
-tbody tr:first-child td:last-child {
+tbody tr:last-child td:last-child {
   border-radius: 0 0 10px 0;
 }
 
