@@ -94,8 +94,7 @@ tr:nth-child(even) {
 }
 
 tr:hover {
-  background-color: rgb(126, 8, 48);
-  opacity: 0.25;
+  background-color: rgb(126, 8, 48, 0.25);
 }
 
 thead tr:first-child th:first-child {
